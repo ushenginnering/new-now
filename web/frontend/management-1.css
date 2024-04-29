@@ -1,0 +1,4840 @@
+.header-child2 {
+  height: 100px;
+  width: 1152px;
+  position: relative;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+  display: none;
+  max-width: 100%;
+}
+.home9,
+.rapkhen3 {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.rapkhen3 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  min-width: 109px;
+  white-space: nowrap;
+}
+.home9 {
+  min-width: 60px;
+}
+.image-container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.about-us9 {
+  position: relative;
+  display: inline-block;
+  min-width: 89px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.image-container2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.management7 {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.image-container3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  color: #80c4d3;
+}
+.news-event9 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.image-container4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.gallery9 {
+  position: relative;
+  display: inline-block;
+  min-width: 71px;
+  z-index: 1;
+}
+.image-container5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.contact-us9 {
+  position: relative;
+  display: inline-block;
+  min-width: 110px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.image-container6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.button-icon4 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  border-radius: 100px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 32px;
+  z-index: 1;
+}
+.image-container-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.header4,
+.input-field5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.input-field5 {
+  flex: 1;
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 20px;
+}
+.header4 {
+  align-self: stretch;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+  flex-direction: row;
+  padding: 32px 50px;
+  gap: 71px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Poppins;
+}
+.rectangle-icon2 {
+  width: 1152px;
+  height: 180px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.bg-blue-1-icon1 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.align-vertical-icon,
+.bg-blue-1-icon1,
+.bg-blue-1-parent {
+  width: 100%;
+  position: absolute;
+  right: 0;
+  left: 0;
+}
+.align-vertical-icon {
+  height: calc(100% - 4px);
+  top: 2px;
+  bottom: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.bg-blue-1-parent {
+  height: 100%;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+}
+.management8 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.home10,
+.link-icon,
+.management8 {
+  position: relative;
+  z-index: 2;
+}
+.home10 {
+  display: inline-block;
+  min-width: 44px;
+}
+.link-icon {
+  width: 6px;
+  height: 5px;
+}
+.icon34 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+}
+.management9 {
+  position: relative;
+  font-weight: 500;
+  color: #fff;
+  display: inline-block;
+  min-width: 95px;
+  z-index: 2;
+}
+.circle-shape,
+.image3,
+.space,
+.sub-header2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.space {
+  flex-direction: row;
+  gap: 10px;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.circle-shape,
+.image3,
+.sub-header2 {
+  max-width: 100%;
+}
+.image3 {
+  flex: 1;
+  background-color: rgba(237, 237, 237, 0.6);
+  flex-direction: column;
+  padding: 50px 20px 52px 50px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 22px;
+  z-index: 1;
+}
+.circle-shape,
+.sub-header2 {
+  flex-direction: row;
+}
+.sub-header2 {
+  flex: 1;
+}
+.circle-shape {
+  align-self: stretch;
+  padding: 0 0 48px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 33px;
+  color: #fff;
+  font-family: Roboto;
+}
+.dropdown-menu1 {
+  width: 9px;
+  height: 9px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #80c4d3;
+}
+.dropdown-menu-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 0 0;
+}
+.progress-bar1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+}
+.toggle-button {
+  width: 9px;
+  height: 9px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #80c4d3;
+}
+.frame-parent10,
+.slider1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.slider1 {
+  flex-direction: column;
+  padding: 18px 0 0;
+}
+.frame-parent10 {
+  flex-direction: row;
+  gap: 10px;
+}
+.mr-lorem-ipsum {
+  position: relative;
+  line-height: 35px;
+  font-weight: 500;
+}
+.mr-lorem-ipsum-wrapper,
+.star-shape {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mr-lorem-ipsum-wrapper {
+  flex-direction: row;
+  padding: 0 19px;
+  font-size: 20px;
+  color: #000;
+}
+.star-shape {
+  flex-direction: column;
+}
+.column,
+.row {
+  max-width: 100%;
+}
+.column {
+  flex: 1;
+  position: relative;
+  line-height: 35px;
+  display: inline-block;
+}
+.row {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 6px;
+  box-sizing: border-box;
+  font-size: 20px;
+  color: #000;
+}
+.facebook-icon7,
+.instagram-icon7,
+.twitter-icon3,
+.whatsapp-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.cell {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+}
+.image-icon20,
+.star-shape-parent {
+  flex: 1;
+  max-width: 100%;
+  min-width: 326px;
+}
+.star-shape-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.image-icon20 {
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.combine-shapes,
+.custom-shape {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.custom-shape {
+  flex: 1;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.combine-shapes {
+  align-self: stretch;
+  padding: 0 50px 50px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 30px;
+  color: #80c4d3;
+  font-family: Poppins;
+}
+.icon-bd33 {
+  position: absolute;
+  height: 37.39%;
+  width: 107.5%;
+  top: -1.23%;
+  right: -4%;
+  bottom: 63.84%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon31 {
+  position: absolute;
+  top: 47px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div33 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% - 13.25px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child63,
+.icon-child64 {
+  position: absolute;
+  top: 37.8px;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child64 {
+  top: 56.2px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon35 {
+  width: 20px;
+  height: 56.7px;
+  position: relative;
+  display: none;
+}
+.icon-bd34 {
+  position: absolute;
+  height: 37.39%;
+  width: 107.5%;
+  top: -1.23%;
+  right: -4%;
+  bottom: 63.84%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon32 {
+  position: absolute;
+  top: 47px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div34 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% - 13.25px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child65,
+.icon-child66 {
+  position: absolute;
+  top: 37.8px;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child66 {
+  top: 56.2px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon36 {
+  width: 20px;
+  height: 56.7px;
+  position: relative;
+  display: none;
+}
+.icon-bd35 {
+  position: absolute;
+  height: 37.39%;
+  width: 107.5%;
+  top: -1.23%;
+  right: -4%;
+  bottom: 63.84%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon33 {
+  position: absolute;
+  top: 47px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div35 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% - 13.25px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child67,
+.icon-child68 {
+  position: absolute;
+  top: 37.8px;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child68 {
+  top: 56.2px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon37,
+.rectangle6 {
+  width: 20px;
+  height: 56.7px;
+  position: relative;
+  display: none;
+}
+.rectangle6 {
+  width: 1152px;
+  height: 1427px;
+  background-color: #f2f2f2;
+  max-width: 100%;
+}
+.frame-child9 {
+  width: 9px;
+  height: 9px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #80c4d3;
+  z-index: 1;
+}
+.ellipse-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 0 0;
+}
+.tittle5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+  z-index: 1;
+}
+.background-color {
+  width: 9px;
+  height: 9px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #80c4d3;
+  z-index: 1;
+}
+.background-color-wrapper,
+.frame-parent11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background-color-wrapper {
+  flex-direction: column;
+  padding: 18px 0 0;
+}
+.frame-parent11 {
+  flex-direction: row;
+  gap: 10px;
+  max-width: 100%;
+}
+.image-icon21 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.gradient {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd36 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon34 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div36 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child69,
+.icon-child70 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child70 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon38 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd37 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon35 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div37 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child71,
+.icon-child72 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child72 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon39 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd38 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon36 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div38 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child73,
+.icon-child74 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child74 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon40 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests6 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people4 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 100px;
+}
+.value-adder {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 61px 0 63px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.data-aggregator2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon8,
+.instagram-icon8,
+.whatsapp-icon8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.input-sorter {
+  flex: 1;
+  flex-direction: row;
+  gap: 20px;
+}
+.card,
+.condition-checker1,
+.input-sorter {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.condition-checker1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card {
+  width: 224px;
+  flex-direction: column;
+  gap: 10px;
+}
+.image-icon22 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd39 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon37 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div39 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child75,
+.icon-child76 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child76 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon41 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd40 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon38 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div40 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child77,
+.icon-child78 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child78 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon42 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd41 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon39 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div41 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child79,
+.icon-child80 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child80 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon43 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests7 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people5 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 110px;
+}
+.while-most-people-en-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 56px 0 58px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.first-click-tests-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon9,
+.instagram-icon9,
+.whatsapp-icon9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.facebook-container {
+  flex: 1;
+  flex-direction: row;
+  gap: 20px;
+}
+.card-inner,
+.card1,
+.facebook-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card1 {
+  width: 224px;
+  flex-direction: column;
+  gap: 10px;
+}
+.image-icon23 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd42 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon40 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div42 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child81,
+.icon-child82 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child82 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon44 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd43 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon41 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div43 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child83,
+.icon-child84 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child84 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon45 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd44 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon42 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div44 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child85,
+.icon-child86 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child86 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon46 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests8 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people6 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 110px;
+}
+.while-most-people-en-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 56px 0 58px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.first-click-tests-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon10,
+.instagram-icon10,
+.whatsapp-icon10 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.card-child,
+.facebook-parent1 {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.facebook-parent1 {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+.card-child {
+  align-self: stretch;
+  padding: 0 56px;
+}
+.card-child,
+.card2,
+.fill-color,
+.team {
+  display: flex;
+  align-items: flex-start;
+}
+.card2 {
+  width: 224px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.fill-color,
+.team {
+  flex-direction: row;
+  max-width: 100%;
+}
+.team {
+  width: 872px;
+  justify-content: space-between;
+  gap: 20px;
+  z-index: 1;
+}
+.fill-color {
+  align-self: stretch;
+  justify-content: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: FontAwesome;
+}
+.frame-child10 {
+  width: 9px;
+  height: 9px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #80c4d3;
+  z-index: 1;
+}
+.ellipse-wrapper3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 0 0;
+}
+.frame-child11,
+.tittle6 {
+  position: relative;
+  z-index: 1;
+}
+.tittle6 {
+  margin: 0;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+}
+.frame-child11 {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background-color: #80c4d3;
+}
+.ellipse-wrapper4,
+.frame-parent12 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipse-wrapper4 {
+  flex-direction: column;
+  padding: 18px 0 0;
+}
+.frame-parent12 {
+  flex-direction: row;
+  gap: 10px;
+}
+.image-icon24 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.parent-sequencer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd45 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon43 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div45 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child87,
+.icon-child88 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child88 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon47 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd46 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon44 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div46 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child89,
+.icon-child90 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child90 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon48 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd47 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon45 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div47 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child91,
+.icon-child92 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child92 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon49 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests9 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people7 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 66px;
+}
+.parallel-process {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 78px 10px 80px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.facebook-icon11,
+.instagram-icon11,
+.whatsapp-icon11 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.path-selector,
+.path-selector-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.path-selector {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.path-selector-wrapper {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 56px;
+}
+.card3,
+.data-repeater {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.data-repeater {
+  align-self: stretch;
+  align-items: flex-end;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.card3 {
+  flex: 1;
+  align-items: flex-start;
+  gap: 10px;
+  min-width: 206px;
+  max-width: 224px;
+}
+.image-icon25 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd48 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon46 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div48 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child93,
+.icon-child94 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child94 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon50 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd49 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon47 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div49 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child95,
+.icon-child96 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child96 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon51 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd50 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon48 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div50 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child97,
+.icon-child98 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child98 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon52 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests10 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people8 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 66px;
+}
+.while-most-people-en-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 78px 0 80px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.first-click-tests-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon12,
+.instagram-icon12,
+.whatsapp-icon12 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.graph-builder {
+  flex: 1;
+  flex-direction: row;
+  gap: 20px;
+}
+.card4,
+.connected-component,
+.graph-builder {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.connected-component {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card4 {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 206px;
+  max-width: 224px;
+}
+.image-icon26 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd51 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon49 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div51 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child100,
+.icon-child99 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child100 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon53 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd52 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon50 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div52 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child101,
+.icon-child102 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child102 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon54 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd53 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon51 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div53 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child103,
+.icon-child104 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child104 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon55 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests11 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people9 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 66px;
+}
+.while-most-people-en-wrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 78px 0 80px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.first-click-tests-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon13,
+.instagram-icon13,
+.whatsapp-icon13 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.facebook-parent2 {
+  flex: 1;
+  flex-direction: row;
+  gap: 20px;
+}
+.card-inner1,
+.card5,
+.facebook-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-inner1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card5 {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 206px;
+  max-width: 224px;
+}
+.image-icon27 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd54 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon52 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div54 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child105,
+.icon-child106 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child106 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon56 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd55 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon53 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div55 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child107,
+.icon-child108 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child108 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon57 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd56 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon54 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div56 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child109,
+.icon-child110 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child110 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon58 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests12 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people10 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 66px;
+}
+.while-most-people-en-wrapper3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 78px 0 80px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.first-click-tests-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon14,
+.instagram-icon14,
+.whatsapp-icon14 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.facebook-parent3 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.card-inner2 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card-inner2,
+.card6,
+.nested-splitter {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card6 {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 206px;
+  max-width: 224px;
+}
+.nested-splitter {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 52px;
+}
+.image-icon28 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.component-analyzer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd57 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon55 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div57 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child111,
+.icon-child112 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child112 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon59 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd58 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon56 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div58 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child113,
+.icon-child114 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child114 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon60 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd59 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon57 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div59 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child115,
+.icon-child116 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child116 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon61 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests13 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people11 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 66px;
+}
+.graph-modifier {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 78px 0 80px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.graph-saver {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon15,
+.instagram-icon15,
+.whatsapp-icon15 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.graph-splitter {
+  flex-direction: row;
+  gap: 20px;
+}
+.card7,
+.graph-explorer,
+.graph-splitter {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.graph-explorer {
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card7 {
+  flex-direction: column;
+  gap: 10px;
+}
+.image-icon29 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd60 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon58 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div60 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child117,
+.icon-child118 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child118 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon62 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd61 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon59 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div61 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child119,
+.icon-child120 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child120 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon63 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd62 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon60 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div62 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child121,
+.icon-child122 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child122 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon64 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests14 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people12 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 66px;
+}
+.while-most-people-en-wrapper4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 78px 0 80px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.first-click-tests-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon16,
+.instagram-icon16,
+.whatsapp-icon16 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.facebook-parent4 {
+  flex-direction: row;
+  gap: 20px;
+}
+.card-inner3,
+.card8,
+.facebook-parent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-inner3 {
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card8 {
+  flex-direction: column;
+  gap: 10px;
+}
+.image-icon30 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd63 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon61 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div63 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child123,
+.icon-child124 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child124 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon65 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd64 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon62 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div64 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child125,
+.icon-child126 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child126 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon66 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd65 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon63 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div65 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child127,
+.icon-child128 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child128 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon67 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests15 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people13 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 66px;
+}
+.while-most-people-en-wrapper5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 78px 0 80px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.first-click-tests-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon17,
+.instagram-icon17,
+.whatsapp-icon17 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.facebook-parent5 {
+  flex-direction: row;
+  gap: 20px;
+}
+.card-inner4,
+.card9,
+.facebook-parent5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-inner4 {
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card9 {
+  flex-direction: column;
+  gap: 10px;
+}
+.edge-detector,
+.team1,
+.tree-printer {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.edge-detector {
+  width: 872px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.team1,
+.tree-printer {
+  align-self: stretch;
+}
+.tree-printer {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.team1 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 50px;
+  z-index: 1;
+  font-size: 16px;
+  color: #fff;
+  font-family: FontAwesome;
+}
+.frame-child12 {
+  width: 9px;
+  height: 9px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #80c4d3;
+  z-index: 1;
+}
+.ellipse-wrapper5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 0 0;
+}
+.frame-child13,
+.tittle7 {
+  position: relative;
+  z-index: 1;
+}
+.tittle7 {
+  margin: 0;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+}
+.frame-child13 {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background-color: #80c4d3;
+}
+.ellipse-wrapper6,
+.frame-parent13 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipse-wrapper6 {
+  flex-direction: column;
+  padding: 18px 0 0;
+}
+.frame-parent13 {
+  flex-direction: row;
+  gap: 10px;
+  max-width: 100%;
+}
+.image-icon31 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.graph-analyzer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd66 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon64 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div66 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child129,
+.icon-child130 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child130 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon68 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd67 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon65 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div67 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child131,
+.icon-child132 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child132 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon69 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd68 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon66 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div68 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child133,
+.icon-child134 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child134 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon70 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests16 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people14 {
+  width: 65px;
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 65px;
+}
+.graph-comparator-helper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 22px 0 25px;
+}
+.facebook-icon18,
+.instagram-icon18,
+.whatsapp-icon18 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.logic-splitter {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.graph-transformer-helper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.card10,
+.graph-filter-helper,
+.graph-splitter-helper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.graph-filter-helper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 56px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.card10,
+.graph-splitter-helper {
+  flex-direction: column;
+}
+.graph-splitter-helper {
+  align-self: stretch;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.card10 {
+  flex: 1;
+  gap: 10px;
+  min-width: 206px;
+  max-width: 224px;
+}
+.image-icon32 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd69 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon67 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div69 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child135,
+.icon-child136 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child136 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon71 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd70 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon68 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div70 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child137,
+.icon-child138 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child138 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon72 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd71 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon69 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div71 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child139,
+.icon-child140 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child140 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon73 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests17 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people15 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 77px;
+}
+.while-most-people-en-wrapper6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 72px 0 75px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.first-click-tests-parent6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon19,
+.instagram-icon19,
+.whatsapp-icon19 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.facebook-parent6 {
+  flex: 1;
+  flex-direction: row;
+  gap: 20px;
+}
+.card-inner5,
+.card11,
+.facebook-parent6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-inner5 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card11 {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 206px;
+  max-width: 224px;
+}
+.image-icon33 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd72 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon70 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div72 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child141,
+.icon-child142 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child142 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon74 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd73 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon71 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div73 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child143,
+.icon-child144 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child144 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon75 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd74 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon72 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div74 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child145,
+.icon-child146 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child146 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon76 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests18 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people16 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 110px;
+}
+.while-most-people-en-wrapper7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 56px 0 58px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.first-click-tests-parent7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon20,
+.instagram-icon20,
+.whatsapp-icon20 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.facebook-parent7 {
+  flex: 1;
+  flex-direction: row;
+  gap: 20px;
+}
+.card-inner6,
+.card12,
+.facebook-parent7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-inner6 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card12 {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 206px;
+  max-width: 224px;
+}
+.image-icon34 {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper10 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 52px;
+}
+.icon-bd75 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon73 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div75 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child147,
+.icon-child148 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child148 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon77 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd76 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon74 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div76 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child149,
+.icon-child150 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child150 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon78 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.icon-bd77 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -3.5%;
+  right: -4%;
+  bottom: -4%;
+  left: -3.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon75 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div77 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child151,
+.icon-child152 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child152 {
+  top: 18.4px;
+  left: 19.5px;
+  height: 17.8px;
+}
+.icon79 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: none;
+}
+.first-click-tests19 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.while-most-people17 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 47px;
+}
+.while-most-people-en-wrapper8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 23px;
+  font-size: 16px;
+  color: #80c4d3;
+}
+.first-click-tests-parent8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #22343d;
+  font-family: Poppins;
+}
+.facebook-icon21,
+.instagram-icon21,
+.whatsapp-icon21 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.facebook-parent8 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.card-inner7 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 56px;
+}
+.card-inner7,
+.card13,
+.meet-our-staff1,
+.team2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card13 {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 206px;
+  max-width: 224px;
+}
+.meet-our-staff1,
+.team2 {
+  align-self: stretch;
+}
+.team2 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 52px;
+  z-index: 1;
+  font-size: 16px;
+  color: #fff;
+  font-family: FontAwesome;
+}
+.meet-our-staff1 {
+  background-color: #f2f2f2;
+  flex-direction: column;
+  padding: 50px;
+  box-sizing: border-box;
+  gap: 50px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 30px;
+  color: #80c4d3;
+  font-family: Poppins;
+}
+.image-1-icon3 {
+  width: 1152px;
+  height: 390px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  mix-blend-mode: normal;
+  max-width: 100%;
+  z-index: 0;
+}
+.frame-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ededed;
+  width: 100%;
+  height: 100%;
+  mix-blend-mode: hue;
+  z-index: 1;
+}
+.frame-child15 {
+  left: 0;
+  background-color: rgba(237, 237, 237, 0.5);
+  mix-blend-mode: normal;
+  z-index: 2;
+}
+.frame-child15,
+.rectangle-group,
+.rectangle7 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.rectangle7 {
+  left: -1px;
+  background: linear-gradient(180deg);
+  z-index: 3;
+}
+.rectangle-group {
+  margin: 0 !important;
+  right: 0;
+  bottom: 0;
+}
+.and-be-the2,
+.join-our-newsletter2 {
+  margin: 0;
+}
+.join-our-newsletter-container5 {
+  width: 100%;
+}
+.join-our-newsletter-container4 {
+  margin: 0;
+  width: 706px;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 4;
+}
+.join-our-newsletter-and-be-the-container {
+  width: 900px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 2px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.input-field-child1 {
+  height: 80px;
+  width: 900px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 2px solid #80c4d3;
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.enter-your-email2 {
+  position: relative;
+  line-height: 40px;
+  z-index: 1;
+}
+.input-field6 {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 2px solid #80c4d3;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 17px 20px;
+  max-width: 100%;
+  z-index: 4;
+}
+.submit2 {
+  position: relative;
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  min-width: 69px;
+}
+.button-wrapper3,
+.button8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 20px 30px;
+  background-color: #80c4d3;
+  border-radius: 5px;
+  justify-content: flex-start;
+  z-index: 4;
+}
+.button8:hover {
+  background-color: #4d91a1;
+}
+.button-wrapper3 {
+  width: 845px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.input-field-container {
+  width: 900px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+}
+.background3,
+.input-field-container,
+.news-leeter2 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background3 {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 65px 22px 64px 20px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 30px;
+  background-image: url(./public/image-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.news-leeter2 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  z-index: 2;
+  text-align: center;
+  font-size: 30px;
+  color: #80c4d3;
+  font-family: Poppins;
+}
+.footer-inner {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 373px;
+  right: -1152px;
+  bottom: -373px;
+  left: 1152px;
+  background-color: #80c4d3;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.logo4 {
+  margin: 0;
+  width: 70px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.logo-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 24px;
+}
+.frame-child16 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.frame-parent14 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 40px;
+  text-align: center;
+}
+.icon-bd78 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -7.5%;
+  bottom: -7.5%;
+  left: 0;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon76 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div78 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child153,
+.icon-child154 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child154 {
+  top: 0.5px;
+  left: 1.5px;
+  height: 17.8px;
+}
+.icon-bd79,
+.icon80 {
+  position: absolute;
+  height: 100%;
+  width: 7.25%;
+  top: 0;
+  right: 92.75%;
+  bottom: 0;
+  left: 0;
+}
+.icon-bd79 {
+  width: 100%;
+  right: -7.5%;
+  bottom: -7.5%;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon77 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div79 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child155,
+.icon-child156 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child156 {
+  top: 0.5px;
+  left: 1.5px;
+  height: 17.8px;
+}
+.icon-bd80,
+.icon81 {
+  position: absolute;
+  height: 100%;
+  width: 7.25%;
+  top: 0;
+  right: 69.57%;
+  bottom: 0;
+  left: 23.19%;
+}
+.icon-bd80 {
+  width: 100%;
+  right: -7.5%;
+  bottom: -7.5%;
+  left: 0;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon78 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div80 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child157,
+.icon-child158 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child158 {
+  top: 0.5px;
+  left: 1.5px;
+  height: 17.8px;
+}
+.icon-bd81,
+.icon82 {
+  position: absolute;
+  height: 100%;
+  width: 7.25%;
+  top: 0;
+  right: 46.38%;
+  bottom: 0;
+  left: 46.38%;
+}
+.icon-bd81 {
+  width: 100%;
+  right: -7.5%;
+  bottom: -7.5%;
+  left: 0;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon79 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div81 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child159,
+.icon-child160 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child160 {
+  top: 0.5px;
+  left: 1.5px;
+  height: 17.8px;
+}
+.icon-bd82,
+.icon83 {
+  position: absolute;
+  height: 100%;
+  width: 7.25%;
+  top: 0;
+  right: 23.19%;
+  bottom: 0;
+  left: 69.57%;
+}
+.icon-bd82 {
+  width: 100%;
+  right: -7.5%;
+  bottom: -7.5%;
+  left: 0;
+  border-radius: 2px;
+  background-color: #c4c4c4;
+  border: 1.5px solid #000;
+  box-sizing: border-box;
+}
+.volleyball-ball-icon80 {
+  position: absolute;
+  top: 9.2px;
+  left: 8.5px;
+  width: 12.5px;
+  height: 13.5px;
+  overflow: hidden;
+  display: none;
+}
+.div82 {
+  position: absolute;
+  width: 33%;
+  top: calc(50% + 0.3px);
+  left: 52%;
+  display: none;
+  height: 9.7px;
+}
+.icon-child161,
+.icon-child162 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 18px;
+  height: 18.9px;
+  object-fit: contain;
+}
+.icon-child162 {
+  top: 0.5px;
+  left: 1.5px;
+  height: 17.8px;
+}
+.icon84 {
+  position: absolute;
+  height: 100%;
+  width: 7.25%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 92.75%;
+}
+.social-icon3 {
+  width: 276px;
+  height: 20px;
+  position: relative;
+  display: none;
+  z-index: 2;
+  font-size: 16px;
+  font-family: FontAwesome;
+}
+.about-us10,
+.home11 {
+  width: 100px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.about-us10,
+.contact-us10,
+.gallery10,
+.home11,
+.management10,
+.news-event10 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 500;
+  z-index: 1;
+}
+.contact-us10,
+.gallery10,
+.news-event10 {
+  line-height: 21px;
+}
+.contact-us10,
+.gallery10 {
+  line-height: 24px;
+  display: inline-block;
+}
+.gallery10 {
+  width: 100px;
+  flex-shrink: 0;
+}
+.contact-us10 {
+  min-width: 114px;
+}
+.home-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.facebook-icon22,
+.instagram-icon22,
+.telegram-icon3,
+.twitter-icon4,
+.whatsapp-icon22 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+  z-index: 1;
+}
+.facebook-parent9,
+.frame-wrapper7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.facebook-parent9 {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-wrapper7 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 17px 0 18px;
+}
+.copyright-20213 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-parent16,
+.frame-wrapper6 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent16 {
+  width: 315px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.frame-wrapper6 {
+  width: 783px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.frame-parent15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 40px;
+  max-width: 100%;
+}
+.footer-inner1,
+.footer3 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer-inner1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 5px;
+  font-size: 20px;
+}
+.footer3 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 50px;
+  position: relative;
+  gap: 48px;
+  text-align: left;
+  font-size: 25px;
+  color: #fff;
+  font-family: Poppins;
+}
+.footer-container,
+.management-1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-container {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 1px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.management-1 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: FontAwesome;
+}
+@media screen and (max-width: 975px) {
+  .image-container-parent {
+    display: none;
+  }
+  .management8 {
+    font-size: 26px;
+  }
+  .progress-bar1,
+  .tittle5 {
+    font-size: 24px;
+  }
+  .team {
+    flex-wrap: wrap;
+  }
+  .tittle6,
+  .tittle7 {
+    font-size: 24px;
+  }
+  .meet-our-staff1 {
+    padding-top: 21px;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+  .join-our-newsletter-container4 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .home-parent3 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 700px) {
+  .header4 {
+    gap: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+    box-sizing: border-box;
+  }
+  .custom-shape {
+    gap: 25px;
+  }
+  .combine-shapes {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 32px;
+    box-sizing: border-box;
+  }
+  .nested-splitter {
+    gap: 26px;
+  }
+  .team1 {
+    gap: 25px;
+  }
+  .team2 {
+    gap: 26px;
+  }
+  .meet-our-staff1 {
+    gap: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    box-sizing: border-box;
+  }
+  .frame-parent14 {
+    gap: 20px;
+  }
+  .footer3 {
+    gap: 24px;
+    padding-left: 25px;
+    padding-right: 25px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header4 {
+    gap: 18px;
+  }
+  .management8 {
+    font-size: 20px;
+  }
+  .image3 {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .progress-bar1 {
+    font-size: 18px;
+  }
+  .column,
+  .mr-lorem-ipsum {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  .first-click-tests10,
+  .first-click-tests11,
+  .first-click-tests12,
+  .first-click-tests13,
+  .first-click-tests14,
+  .first-click-tests15,
+  .first-click-tests16,
+  .first-click-tests17,
+  .first-click-tests18,
+  .first-click-tests19,
+  .first-click-tests6,
+  .first-click-tests7,
+  .first-click-tests8,
+  .first-click-tests9,
+  .tittle5,
+  .tittle6,
+  .tittle7 {
+    font-size: 18px;
+  }
+  .join-our-newsletter-container4 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .enter-your-email2,
+  .submit2 {
+    font-size: 16px;
+    line-height: 32px;
+  }
+  .submit2 {
+    line-height: 17px;
+  }
+  .background3 {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+  .logo4 {
+    font-size: 20px;
+  }
+  .about-us10,
+  .contact-us10,
+  .gallery10,
+  .home11,
+  .management10,
+  .news-event10 {
+    font-size: 16px;
+    line-height: 17px;
+  }
+  .facebook-parent9 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .frame-parent16 {
+    gap: 18px;
+  }
+  .frame-parent15 {
+    gap: 20px;
+  }
+  .footer3 {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    box-sizing: border-box;
+  }
+}
